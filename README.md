@@ -1,2 +1,2 @@
-# 10 anos de back-pei
- Revisão dos 10 anos do Back-Pei
+# 10 anos de Back-PEI
+ Projeto para o estudo de revisão dos 10 anos do Back-PEI
