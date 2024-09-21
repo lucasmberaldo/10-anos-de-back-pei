@@ -1,0 +1,30 @@
+Chave 1
+Busca feita na PUBMED em 20/09/2024
+"Sırt Ağrısı ve Vücut Duruşu Değerlendirme Aracı’nın" OR
+"BackPEI" OR
+"BackPEI-A" OR
+"BackPEI-CA" OR
+"Back Pain and Body Posture Evaluation Instrument"
+
+Noll, 2013
+Foram coletadas as citações apresentadas no Web of Science (27) e Scopus (41)
+Foram indicadas também 27 citações no CrossRef mas não incluídas
+
+Candotti, 2018
+Foram coletadas as citações apresentadas no Scopus (8) e na Pubmed (2), estas foram colocadas em "Sobras das fontes iniciais"
+O CrossRef indicou 5 citações não incluídas
+
+Pivotto, 2018
+Foram encontradas 4 citações na Semantic Scholar e 6 no Research Gate todas foram colocadas em "Sobras das fontes iniciais"
+
+Bebiş, 2019
+Foram encontradas 3 citações no Research Gate que foram colocadas em "Sobras das fontes iniciais"
+
+Miñana-Signes, 2021
+Foram encontradas 7 citações na Pubmed, 10 na Scopus (o site não carregou, ainda não foram pegas) e 11 na Web of Science
+
+da Rosa, 2022
+Foram encontradas 4 citações na PubMed, 5 na Web of Science e 5 na Scopus
+
+Candotti, 2023
+Não foram encontradas citações

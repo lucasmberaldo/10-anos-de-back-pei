@@ -1,7 +1,0 @@
-Chave 1
-Busca feita na PUBMED em 20/09/2024
-"Sırt Ağrısı ve Vücut Duruşu Değerlendirme Aracı’nın" OR
-"BackPEI" OR
-"BackPEI-A" OR
-"BackPEI-CA" OR
-"Back Pain and Body Posture Evaluation Instrument"
