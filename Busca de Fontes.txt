@@ -30,3 +30,4 @@ Candotti, 2023
 Não foram encontradas citações
 
 As fontes iniciais, a busca com a chave inicial e as citações dos artigos de desenvolvimentoe e avaliação das fontes iniciais resultou em 290 fontes
+As duplicatas foram checadas no Rayyan. Após sua remoção restaram 199 artigos
