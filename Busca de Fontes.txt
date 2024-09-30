@@ -1,5 +1,6 @@
 Chave 1
 Busca feita na PUBMED em 20/09/2024
+133 Fontes
 "Sırt Ağrısı ve Vücut Duruşu Değerlendirme Aracı’nın" OR
 "BackPEI" OR
 "BackPEI-A" OR
@@ -7,6 +8,7 @@ Busca feita na PUBMED em 20/09/2024
 "Back Pain and Body Posture Evaluation Instrument"
 
 Busca Scopus 30/09/2024
+61 Fontes
 "Sırt Ağrısı ve Vücut Duruşu Değerlendirme Aracı’nın" OR
 "BackPEI" OR
 "BackPEI-A" OR
@@ -14,6 +16,7 @@ Busca Scopus 30/09/2024
 "Back Pain and Body Posture Evaluation Instrument"
 
 Busca Lilacs 30/09/20274
+30 Fontes
 "Sırt Ağrısı ve Vücut Duruşu Değerlendirme Aracı’nın" OR
 "BackPEI" OR
 "BackPEI-A" OR
