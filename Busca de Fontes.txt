@@ -48,4 +48,6 @@ Candotti, 2023
 Não foram encontradas citações
 
 As fontes iniciais, a busca com a chave inicial e as citações dos artigos de desenvolvimentoe e avaliação das fontes iniciais resultou em 290 fontes
-As duplicatas foram checadas no Rayyan. Após sua remoção restaram 199 artigos
+As duplicatas foram checadas no Rayyan. Após sua remoção restaram 210 artigos.
+
+Em 30 de setembro o avaliador 1 havia avaliado 50 fontes, o avaliador 2 havia avaliado 113, gerando 19 discensos (concordância 62%). Devido ao alto número de discensos os avaliadores se reuniram para resolvê-los e debater para aprimorar a concordância na avaliação.
