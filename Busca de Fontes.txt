@@ -51,3 +51,5 @@ As fontes iniciais, a busca com a chave inicial e as citações dos artigos de d
 As duplicatas foram checadas no Rayyan. Após sua remoção restaram 210 artigos.
 
 Em 30 de setembro o avaliador 1 havia avaliado 50 fontes, o avaliador 2 havia avaliado 113, gerando 19 discensos (concordância 62%). Devido ao alto número de discensos os avaliadores se reuniram para resolvê-los e debater para aprimorar a concordância na avaliação.
+
+No dia 10 de outubro os avaliadores se reuniram para resolver as 25 discordâncias (concordância 84%) após a leitura dos demais títulos e resumos.
