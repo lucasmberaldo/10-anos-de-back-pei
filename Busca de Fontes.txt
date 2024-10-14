@@ -53,3 +53,8 @@ As duplicatas foram checadas no Rayyan. Após sua remoção restaram 210 artigos
 Em 30 de setembro o avaliador 1 havia avaliado 50 fontes, o avaliador 2 havia avaliado 113, gerando 19 discensos (concordância 62%). Devido ao alto número de discensos os avaliadores se reuniram para resolvê-los e debater para aprimorar a concordância na avaliação.
 
 No dia 10 de outubro os avaliadores se reuniram para resolver as 25 discordâncias (concordância 84%) após a leitura dos demais títulos e resumos.
+
+Durante a seleção com acesso aos artigos na íntegra foram identificadas possíveis fontes:
+Noll M, Silveira EA, Avelar ISdJPO. Evaluation of factors associated with severe and frequent back
+pain in high school athletes. PLoS One. 2017; 12(2):e0171978. https://doi.org/10.1371/journal.pone.
+0171978 PMID 28222141

@@ -5,4 +5,5 @@ A busca foi feita a partir da lista de estudos que utilizam o BackPEI que são d
 
 To do list
 1 - Seleção inicial a partir da leitura dos títulos e resumos
+    1.1 - Alguns artigos tiveram que ser baixados novamente, aparentemente o caractere "+" impedia a leitura pelo Rayyan. Estes vão estar duplicados na pasta de artigos.
 2 - Escrita da introdução e metodologia do artigo
