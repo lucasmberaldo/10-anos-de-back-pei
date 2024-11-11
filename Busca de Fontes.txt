@@ -1,3 +1,5 @@
+A seleção das fontes começou por um conjunto de estudos publicados pelo grupo de pesquisa ou conhecidos por ele. São 32 fontes que estão em Fontes_iniciais.ris
+
 Chave 1
 Busca feita na PUBMED em 20/09/2024
 133 Fontes
@@ -24,6 +26,8 @@ Busca Lilacs 30/09/20274
 "Back Pain and Body Posture Evaluation Instrument"
 
 
+A partir de uma avaliação das fontes iniciais foram identificados os estudo de desenvolvimento ou avaliação do BackPEI. Foram investigadas as citações feitas as esses estudos e elas foram incluídas na seleção das fontes.
+
 Noll, 2013
 Foram coletadas as citações apresentadas no Web of Science (27) e Scopus (41)
 Foram indicadas também 27 citações no CrossRef mas não incluídas
@@ -47,14 +51,16 @@ Foram encontradas 4 citações na PubMed, 5 na Web of Science e 5 na Scopus
 Candotti, 2023
 Não foram encontradas citações
 
-As fontes iniciais, a busca com a chave inicial e as citações dos artigos de desenvolvimentoe e avaliação das fontes iniciais resultou em 290 fontes
+As fontes iniciais, a busca com a chave inicial e as citações dos artigos de desenvolvimento e avaliação das fontes iniciais resultou em 290 possíveis fontes
 As duplicatas foram checadas no Rayyan. Após sua remoção restaram 210 artigos.
 
 Em 30 de setembro o avaliador 1 havia avaliado 50 fontes, o avaliador 2 havia avaliado 113, gerando 19 discensos (concordância 62%). Devido ao alto número de discensos os avaliadores se reuniram para resolvê-los e debater para aprimorar a concordância na avaliação.
 
 No dia 10 de outubro os avaliadores se reuniram para resolver as 25 discordâncias (concordância 84%) após a leitura dos demais títulos e resumos.
 
-Durante a seleção com acesso aos artigos na íntegra foram identificadas possíveis fontes:
+Durante a seleção com acesso aos artigos na íntegra foram identificadas possíveis fontes no artigo:
 Noll M, Silveira EA, Avelar ISdJPO. Evaluation of factors associated with severe and frequent back
 pain in high school athletes. PLoS One. 2017; 12(2):e0171978. https://doi.org/10.1371/journal.pone.
 0171978 PMID 28222141
+
+
