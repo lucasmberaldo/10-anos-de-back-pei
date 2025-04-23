@@ -17,7 +17,7 @@ Busca Scopus 30/09/2024
 "BackPEI-CA" OR
 "Back Pain and Body Posture Evaluation Instrument"
 
-Busca Lilacs 30/09/20274
+Busca Lilacs 30/09/2024
 30 Fontes
 "Sırt Ağrısı ve Vücut Duruşu Değerlendirme Aracı’nın" OR
 "BackPEI" OR
