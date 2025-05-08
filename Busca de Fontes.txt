@@ -43,13 +43,15 @@ Bebiş, 2019
 Foram encontradas 3 citações no Research Gate que foram colocadas em "Sobras das fontes iniciais"
 
 Miñana-Signes, 2021
-Foram encontradas 7 citações na Pubmed, 10 na Scopus e 11 na Web of Science
+Foram encontradas 8 citações na Pubmed, 10 na Scopus e 11 na Web of Science
 
 da Rosa, 2022
-Foram encontradas 4 citações na PubMed, 5 na Web of Science e 5 na Scopus
+Foram encontradas 5 citações na PubMed, 6 na Web of Science e 5 na Scopus
 
 Candotti, 2023
 Não foram encontradas citações
+
+Ao montar o arquivo "Sobras das fontes iniciais" algumas duplicatas foram identificadas. Assim, embora as citações às fontes que eram pra ser incluídas neste arquivo tenha um total de 23, apenas 16 estão no arquivo. 
 
 As fontes iniciais, a busca com a chave inicial e as citações dos artigos de desenvolvimento e avaliação das fontes iniciais resultou em 290 possíveis fontes
 As duplicatas foram checadas no Rayyan. Após sua remoção restaram 210 artigos.
